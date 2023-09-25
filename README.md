@@ -1,2 +1,2 @@
 # C_scrabble
-CCPROG2 Machine Project. Made with Aila Manlangit.
+CCPROG2 Machine Project. Programmed with Aila Manlangit.
